@@ -1,5 +1,5 @@
 # TV1_ODIR19-
-<i>Ophthalmic diseases classification</i>
+
 ## Ocular Disease Intelligent Recognition (ODIR-2019)
 
 ### Introduction
